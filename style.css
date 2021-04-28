@@ -1,0 +1,48 @@
+.h1class{
+    background-color: #ff9999;
+    color:white
+}
+h2{
+    background-color:#e6e6e6;
+    color: violet;
+}
+.ppink{
+    background-color:#ff809f;
+
+}
+h3{
+    background-color: #ffff33;
+}
+.linksTo{
+    background-color:#33ffff;
+    
+}
+.linksTo ul{
+    list-style-type: none;
+}
+
+
+
+.hov:hover{
+    background-color:#ccff33 ;
+    color:#ff9999;
+}
+
+a:hover{
+    background-color: 	#cc33ff;
+    color: coral;
+}
+a:active{
+    background-color: #ccff33;
+}
+
+span > a:visited{
+    color: darkgray;
+}
+
+.contact{
+    background-color:#33ffff ;
+}
+.contact ul li {
+    list-style-type:circle;
+}
