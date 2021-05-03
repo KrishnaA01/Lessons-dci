@@ -1,0 +1,65 @@
+
+html{
+    font-size: 18px;
+    background-color:#ECDFA0;
+    font-family: 'New Tegomin', serif;
+    color: rgb(71, 13, 85);
+    
+}
+h2{
+    font-size: 3rem;
+    text-shadow: 3px 4px 3px white;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+.navbar{
+background: linear-gradient(90deg, rgba(131,58,180,1) 9%, rgba(149,98,25,0.4542191876750701) 81%, rgba(64,58,10,1) 100%);
+border: 3px solid rgb(128, 98, 98);
+color: rgb(121, 69, 2);
+font-weight: bold;
+font-size:2rem;
+padding: 0 10px;
+text-shadow: 4px 4px 4px rgb(214, 174, 129);
+text-align: center;
+
+
+}
+
+.navbar ul li{
+    list-style-type: none;
+    display: inline-block;
+    space
+    
+
+}
+
+.blog-1, .blog-2{
+    text-align: center;
+}
+.blog-1 p, .blog-2 p{
+    text-align: left;
+}
+a:hover{
+    color: #dad735;
+}
+img{
+    border: 4px solid purple;
+    border-radius: 80%;
+    opacity: 0.9;
+}
+img:hover{
+    opacity: 1;
+}
+.blog-1{
+    border: 5px solid brown;
+    background-color: beige;
+   
+}
+.blog-2{
+    border: 5px solid brown;
+    background-color: beige;
+   
+}
